@@ -1,7 +1,5 @@
 # AI Multi-Agent Platform v1
 
-![Architecture Overview](cover-image-url-here.jpg)
-
 ## 📌 Overview
 **AI Multi-Agent Platform v1** is a scalable, cloud-native orchestration framework designed to coordinate specialized AI agents. Built with an event-driven architecture, this platform enables multiple autonomous agents to collaborate, delegate tasks, and solve complex reasoning challenges efficiently. 
 
