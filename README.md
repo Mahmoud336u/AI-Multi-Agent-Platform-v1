@@ -1,8 +1,9 @@
 # AI Multi-Agent Platform v1
 
 ## 📌 Overview
-**AI Multi-Agent Platform v1** is a scalable, cloud-native orchestration framework designed to coordinate specialized AI agents. Built with an event-driven architecture, this platform enables multiple autonomous agents to collaborate, delegate tasks, and solve complex reasoning challenges efficiently. 
-diagram [diagram.png]
+**AI Multi-Agent Platform v1** is a scalable, cloud-native orchestration framework designed to coordinate specialized AI agents. Built with an event-driven architecture, this platform enables multiple agents to collaborate on complex tasks while maintaining state, context, and extensibility.
+
+![AI Multi-Agent Platform Architecture](diagram.png)
 
 ## 🚀 Key Features
 * **Modular Multi-Agent Orchestration:** Powered by **LangGraph** to manage stateful, cyclic interactions between specialized agents.
@@ -26,5 +27,6 @@ diagram [diagram.png]
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Mahmoud336u/AI-Multi-Agent-Platform-v1.git](https://github.com/Mahmoud336u/AI-Multi-Agent-Platform-v1.git)
+   git clone https://github.com/Mahmoud336u/AI-Multi-Agent-Platform-v1.git
    cd AI-Multi-Agent-Platform-v1
+   ```
